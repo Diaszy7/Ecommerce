@@ -4,9 +4,9 @@ from django.db import migrations
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('produto', '0002_alguma_migration_anterior'),
+        ('produto', '0009_auto_20190815_1147'),
     ]
 
     operations = [
-        # migration desativada porque a coluna já existe no banco
+        # migration vazia, apenas para marcar como aplicada
     ]
