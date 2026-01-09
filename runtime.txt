@@ -1,6 +1,1 @@
-Django==3.1.6
-django-crispy-forms==1.9.0
-django-debug-toolbar==2.2
-Pillow==8.4.0
-gunicorn
-dj-database-url
+python-3.8.18
