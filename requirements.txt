@@ -1,5 +1,5 @@
 Django>=4.2
 django-crispy-forms>=2.0
-
+whitenoise
 Pillow>=10.0
 gunicorn>=21.2
